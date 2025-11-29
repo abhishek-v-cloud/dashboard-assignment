@@ -5,7 +5,6 @@ This project is a **full-stack scalable web app** built with **React.js** (front
 It features **JWT-based authentication**, a **protected dashboard**, **CRUD operations**, **profile management**, **search/filter functionality**, and **responsive Bootstrap styling**.
 
 ---
-
 ## **Features**
 
 ### Backend (Node.js + Express)
